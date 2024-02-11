@@ -31,7 +31,7 @@
 ## About The Project
 
 ![Screen Shot](images/screenshot.png)
-The 2008 economic crisis and global backdrop of struggles by 2011 renewed possibilities for thinking totality, materializing it for apprehension. Ang wrote The Totality Cantos out of a desire to be interested in everything, sampling from discourses of history, philosophy, religion, science, and the humanities, all offering knowledges of what constitute totality. This major work is constructed along the principles of assemblage poetics, and exemplifies constructive verse: writing adequate to apprehending totality.
+The 2008 economic crisis and global backdrop of struggles by 2011 renewed possibilities for thinking totality, materializing it for apprehension. Brian Ang wrote The Totality Cantos out of a desire to be interested in everything, sampling from discourses of history, philosophy, religion, science, and the humanities, all offering knowledges of what constitute totality. This major work is constructed along the principles of assemblage poetics, and exemplifies constructive verse: writing adequate to apprehending totality.
 
 The Totality Cantos generator randomizes assemblages of the poem’s one thousand sections. 
 ## Built With
